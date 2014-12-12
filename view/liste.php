@@ -1,0 +1,14 @@
+<table>
+	<thead>
+		<th>Pos.</th>
+		<th>Partenaire</th>
+		<th>Entrée</th>
+		<th>Sorties</th>
+	</thead>
+	<tr>
+		<td>1</td>
+		<td>PES-Fan</td>
+		<td>25</td>
+		<td>32</td>
+	</tr>
+</table>

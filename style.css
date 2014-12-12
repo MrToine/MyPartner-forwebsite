@@ -1,0 +1,28 @@
+/* STYLE */
+body{
+
+	margin: auto;
+	background: #efefef;
+
+}
+
+table,td,th,tr{
+	
+	border: 1px dashed #000;
+	border-collapse: collapse;
+	margin: auto;
+
+}
+
+table{
+
+	width: 700px;
+
+}
+
+th{
+	
+	background: rgba(0, 0, 0, 0.50);
+	color: #fff;
+
+}
